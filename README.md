@@ -2,6 +2,11 @@
 
 youtube-dl - download videos from youtube.com or other video platforms
 
+# IMPORTANT NOTE ABOUT THIS FORK
+If you are a legal entity or represent one and are planning to take action against this repository,
+I strongly hope we can come to an agreement outside of court.
+Details are mentioned [here](https://github.com/spookyahell/youtube-dl/issues/1).
+
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
 - [OPTIONS](#options)
@@ -14,11 +19,6 @@ youtube-dl - download videos from youtube.com or other video platforms
 - [EMBEDDING YOUTUBE-DL](#embedding-youtube-dl)
 - [BUGS](#bugs)
 - [COPYRIGHT](#copyright)
-
-# IMPORTANT NOTE ABOUT THIS FORK
-If you are a legal entity or represent one and are planning to take action against this repository,
-I strongly hope we can come to an agreement outside of court.
-Details are mentioned [here](https://github.com/spookyahell/youtube-dl/issues/1).
 
 # INSTALLATION
 
