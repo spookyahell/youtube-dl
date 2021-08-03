@@ -7,6 +7,23 @@ If you are a legal entity or represent one and are planning to take action again
 I strongly hope we can come to an agreement outside of court.
 Details are mentioned [here](https://github.com/spookyahell/youtube-dl/issues/1).
 
+Just to clarify though, purely a plain old link to music is allowed here.<br/>
+And clearly I got nothing better to do, so I will link some good works below.
+
+FWIW, this is not instruction or endorsement of any kind to download.<br/>
+Consider it a good reference for what to listen to on YouTube.<br/>
+I recommend to eather stream directly through the youtube.com website or to download the video with the official app (whenever possible).<br/>
+
+## Music recommendations for listening with links to YouTube
+1. Jennifer Lopez - Ain't Your Mama - https://www.youtube.com/watch?v=Pgmx7z49OEk
+1. Marlon Roudette - New Age - https://www.youtube.com/watch?v=Jk5kYjD9E1I
+1. Usher - DJ Got Us Fallin' In Love (ft. Pitbull) - https://www.youtube.com/watch?v=C-dvTjK_07c
+1. Luis Fonsi - Despacito (ft. Daddy Yankee) - https://www.youtube.com/watch?v=kJQP7kiw5Fk
+1. Pharrell Williams - Happy - https://www.youtube.com/watch?v=ZbZSe6N_BXs
+1. Daft Punk - Get Lucky (feat. Pharrell Williams) - https://www.youtube.com/watch?v=CCHdMIEGaaM
+1. Smash Mouth - All Star - https://www.youtube.com/watch?v=dQw4w9WgXcQ
+1. Katy Perry - Hot N Cold - https://www.youtube.com/watch?v=kTHNpusq654
+
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
 - [OPTIONS](#options)
