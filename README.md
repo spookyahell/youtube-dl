@@ -2,7 +2,21 @@
 
 youtube-dl - download videos from youtube.com or other video platforms
 
+# ACKNOWLEDGEMENT OF GITHUB'S CHANGED POLICIES FOR 1201 CLAIMS FOLLOWING youtube-dl TAKEDOWN
+
+_Statement added 23rd of December, 2021_
+
+BTW, despite [my DMCA counter notice](https://github.com/github/dmca/blob/master/2021/04/2021-04-13-RIAA-counternotice.md) saying "GitHub is kinda the bitch of the RIAA", I feel that I must explain that this isn't reality, specifically not after the [publicly announced changes to the 1201 takedown policies](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/#what-were-changing).
+
+Furthermore, I'd like to note for anyone who may visit this page: GitHub remains a commercial, public and very popular service and as such it must weigh options and responses carefully rather than with big risks involved when it comes to legal battles.
+
+The real evil player here is definitely and without any doubt solely the RIAA with [their wildly believed to be unlawful DMCA claim](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md).
+
+The Electronic Frontier Foundation (EFF), to which we owe great respect for aiding the more or less quickly reinstatement of youtube-dl, [claim in the title of an article on their website, that the RIAA abused DMCA](https://www.eff.org/de/deeplinks/2020/11/github-reinstates-youtube-dl-after-riaas-abuse-dmca).
+
 # IMPORTANT NOTE ABOUT THIS FORK
+_Note first added: April 30th, 2021_
+
 If you are a legal entity or represent one and are planning to take action against this repository,
 I strongly hope we can come to an agreement outside of court.
 Details are mentioned [here](https://github.com/spookyahell/youtube-dl/issues/1).
@@ -10,11 +24,13 @@ Details are mentioned [here](https://github.com/spookyahell/youtube-dl/issues/1)
 Just to clarify though, purely a plain old link to music is allowed here.<br/>
 And clearly I got nothing better to do, so I will link some good works below.
 
-FWIW, this is not instruction or endorsement of any kind to download.<br/>
+FWIW, this is neither instruction nor endorsement of any kind to download the linked videos.<br/>
 Consider it a good reference for what to listen to on YouTube.<br/>
-I recommend to eather stream directly through the youtube.com website or to download the video with the official app (whenever possible).<br/>
+Specifically,  I personally recommend to eather stream directly through the youtube.com website or to download the video with the official app (whenever possible).<br/>
 
-## Music recommendations for listening with links to YouTube
+## Music recommendations for listening (YouTube hyperlinks)
+_Recommendations first added: August 3rd, 2021_
+
 1. Jennifer Lopez - Ain't Your Mama - https://www.youtube.com/watch?v=Pgmx7z49OEk
 1. Marlon Roudette - New Age - https://www.youtube.com/watch?v=Jk5kYjD9E1I
 1. Usher - DJ Got Us Fallin' In Love (ft. Pitbull) - https://www.youtube.com/watch?v=C-dvTjK_07c
@@ -24,6 +40,8 @@ I recommend to eather stream directly through the youtube.com website or to down
 1. Smash Mouth - All Star - https://www.youtube.com/watch?v=dQw4w9WgXcQ
 1. Katy Perry - Hot N Cold - https://www.youtube.com/watch?v=kTHNpusq654
 
+
+# TABLE OF CONTENTS
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
 - [OPTIONS](#options)
