@@ -29,7 +29,8 @@ Consider it a good reference for what to listen to on YouTube.<br/>
 Specifically,  I personally recommend to eather stream directly through the youtube.com website or to download the video with the official app (whenever possible). [requires a subscription to YouTube Premium]<br/>
 
 ## Music recommendations for listening (YouTube hyperlinks)
-_Recommendations first added: August 3rd, 2021_
+_Recommendations first added: August 3rd, 2021_<br>
+**Suggest new song titles for this list [here](https://github.com/spookyahell/youtube-dl/issues/2).**
 
 1. Jennifer Lopez - Ain't Your Mama - https://www.youtube.com/watch?v=Pgmx7z49OEk
 1. Marlon Roudette - New Age - https://www.youtube.com/watch?v=Jk5kYjD9E1I
